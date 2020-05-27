@@ -1,0 +1,6 @@
+C:\Users\anton\source\repos\Semana9\Database1\bin\Debug\Database1.dacpac
+C:\Users\anton\source\repos\Semana9\Database1\bin\Debug\Database1.dll
+C:\Users\anton\source\repos\Semana9\Database1\bin\Debug\Database1.pdb
+C:\Users\anton\source\repos\Semana9\Database1\obj\Debug\Database1.dll
+C:\Users\anton\source\repos\Semana9\Database1\obj\Debug\Database1.pdb
+C:\Users\anton\source\repos\Semana9\Database1\obj\Debug\Database1.sqlprojAssemblyReference.cache
